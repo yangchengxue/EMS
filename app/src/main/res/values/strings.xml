@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ESM</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_home">体检</string>
+    <string name="title_dashboard">车况</string>
+    <string name="title_notifications">发现</string>
+    <string name="title_mine">我的</string>
+    <string name="NullString">Null</string>
+</resources>
